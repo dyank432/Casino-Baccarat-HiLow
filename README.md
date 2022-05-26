@@ -1,5 +1,6 @@
-# Assignment-1
+# Casino-Baccarat-HiLow
 
-Please read the [initial assignment spec](Assignment_1.md).
+school project, utilizes a text based ui to play the card games of: Baccarat (punto banco) and HiLow. Also saves player name and money to .txt file
 
-The directory in BaseCardGame includes the code that you will extend to create your own solution. 
+specifications can be read from here:
+[initial assignment spec](Assignment_1.md).
